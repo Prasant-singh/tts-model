@@ -1,0 +1,6 @@
+
+torch 
+soundfile 
+sentencepiece
+git+https://github.com/huggingface/parler-tts.git
+transformers==4.46.1
